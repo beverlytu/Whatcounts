@@ -1,0 +1,151 @@
+%%SET FBIMAGE = "http://media.whatcounts.com/yesvideo/img/commentor_fb_default.jpg"%% 
+%%if commentor_fb_url != "" then SET FBIMAGE = $commentor_fb_url%%   
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+<style type="text/css">
+	body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+	body { width: 100% !important; }
+	body { background-color: #FFFFFF !important; margin: 0 !important; padding: 0 !important; }
+	body { font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; !important; }
+	img { outline: none !important; text-decoration: none !important; display: block !important; }
+	a img {border:none;}
+	.image_fix {display:block;}
+	p {margin: 1em 0;}
+	h1, h2, h3, h4, h5, h6 {color: #009999 !important;}
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: #009999 !important;}
+	h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {
+		color: #009999 !important;
+	 }
+	h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+		color: #009999 !important;		}
+	table td {border-collapse: collapse;}
+	table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+	a {color: #009999;}
+	a:link,
+	a:visited { color: #009999; }
+	.ExternalClass { width: 100% !important; display: block !important; }
+	.yshortcuts a:visited { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.yshortcuts a:hover { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.appleLinks a { color: #555555; text-decoration: none; }
+	.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+	.appleLinksWhite a:link,
+	.appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+	#outlook a {padding:0;}
+	.ExternalClass {width:100%;}
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} 
+	@media only screen and (max-device-width: 480px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color: #555555;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #555555 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color:#555555;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #555555 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+	}
+	@media only screen and (-webkit-device-pixel-ratio:.75){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1.5){
+	}
+</style>
+<!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+<title>☺ %%$commentor_first_name%% commented on %%$initiator_first_name%%'s "%%$vid_title%%" of "%%$conv_title%%"</title>
+</head>
+<body style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 100% !important; font-family: Arial, Helvetica, Geneva, sans-serif; margin-top: 0; margin-right: Open Sans, sans-serif; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: #FFFFFF;" bgcolor="#FFFFFF">
+<table width="700" height="232" border="0" align="center" cellpadding="0" cellspacing="0">
+	  <tbody>
+	<tr style="border-collapse: collapse;">
+		<td width="700" height="45" colspan="5" style="border-collapse: collapse;"><a href="http://share.yesvideo.com" target="_blank" title="YesVideo"><img src="http://media.whatcounts.com/yesvideo/img/YesVideo-logo.jpg" width="161" height="45" border="0" alt="YesVideo" style="border:none; display:block;" /></a></td>
+	</tr>
+	<tr style="border-collapse: collapse;">
+		<td width="700" height="16" colspan="5"><img src="http://media.whatcounts.com/yesvideo/img/spacerTop.jpg" width="700" height="16" alt="" style="border:none; display:block;" /></td>
+	</tr>
+	<tr style="border-collapse: collapse;">
+		<td width="19" height="155" valign="top" bgcolor="#F4F3F1">&nbsp;</td>
+		<td width="206" height="155" valign="top" bgcolor="#F4F3F1"><table width="206" border="0" cellspacing="0" bgcolor="#FFFFFF" cellpadding="3" style="border:#CCC; border-style:solid; border-width:1px; background-color:#FFF;">
+  <tbody>
+      <tr style="border-collapse: collapse;">
+      	<td width="198" height="147" style="border:#FFFFFF; border-style:solid; border-width:0px; border-collapse: collapse;"><a href="http://share.yesvideo.com/%%STOP%%%%$vid_path%%" title="Click to join the conversation"><img src="%%$thumb_url%%" width="198" height="147" alt="" border="0" style="border:none; display:block;" /></a></td>
+      </tr>
+	</tbody>
+</table></td>
+		<td width="25" height="155" valign="top" bgcolor="#F4F3F1">&nbsp;</td>
+		<td width="430" height="155" valign="top" bgcolor="#F4F3F1">
+        <table width="430" border="0" cellpadding="0" cellspacing="0">
+ 		 <tbody>
+          <tr style="border-collapse: collapse;">
+            <td width="370">
+            	<table id="comment" width="370" height="88" border="0" cellpadding="0" cellspacing="0">
+                	<tbody>
+                      <tr style="border-collapse: collapse;">
+                          <td width="370" height="35"style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/comment_top.jpg" width="370" height="35" alt="" style="border:none; display:block;" /></td>
+                      </tr>
+                      <tr style="border-collapse: collapse;">
+                          <td width="370" bgcolor="#FFFFFF" style="background-image:url('http://media.whatcounts.com/yesvideo/img/comment_middle.jpg'); background-repeat:repeat-y; padding-left:40px; padding-right:40px; font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; color:#444444; font-size:14px; border-collapse: collapse;" background="http://media.whatcounts.com/yesvideo/img/comment_middle.jpg"><strong>%%$commentor_first_name%%:</strong> %%$comment%%</td>
+                      </tr>
+                      <tr style="border-collapse: collapse;">
+                          <td width="370" height="35" style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/comment_bottom.jpg" width="370" height="35" alt="" style="border:none; display:block;" /></td>
+                      </tr>
+                    </tbody>
+           	  </table></td>
+            <td width="60" rowspan="2" valign="top" style="padding-top:5px; border-collapse: collapse;">%%article "ART_FBIMAGE"%%</td>
+          </tr>
+          <tr style="border-collapse: collapse;">
+            <td valign="top" style="padding-top:10px; border-collapse: collapse;"><a href="http://share.yesvideo.com/%%STOP%%%%$vid_path%%" title="Click to join the conversation"><img src="http://media.whatcounts.com/yesvideo/img/join-the-converstaion.jpg" alt="Click to join the conversation" width="242" height="54" style="border:none; display:block;" /></a></td>
+          </tr>
+         </tbody>
+        </table>
+      </td>
+		<td width="20" height="155" valign="top" bgcolor="#F4F3F1" style="border-collapse: collapse;"></td>
+	</tr>
+	<tr style="border-collapse: collapse;">
+		<td width="700" height="16" colspan="5"><img src="http://media.whatcounts.com/yesvideo/img/spacerBottom.jpg" width="700" height="16" alt="" style="border:none; display:block;" /></td>
+	</tr>
+  </tbody>
+</table>
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr style="border-collapse: collapse;">
+        <td class="appleLinks" align="left" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 12px; border-collapse: collapse; padding-left: 19px; padding-bottom: 19px; line-height: 1.5em; padding-top: 19px;">Questions? Call 1-866-493-7383 or email us at <a href="mailto:support@yesvideo.com" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">support@yesvideo.com</span></a>.<br style="line-height: 100%;" />
+        View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color: #009999; text-decoration: none; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">terms of service</span></a>. <a href="http://whatcounts.com/bin/listctrl?c=unsubscribe&s=5C84B893BD6D939E8E0BB60F200C6801&e=%%$email%%&g=http%3A%2F%2Fwhatcounts.com/bin/msv?r=2697%26a=unsub_survey%26t=env%26id=%%SUBSCRIBER_ID_TAG%%" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">Unsubscribe</span></a><br style="line-height: 100%;" /><br style="line-height: 100%;" />3281 Scott Blvd., Santa Clara, CA 95054</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
