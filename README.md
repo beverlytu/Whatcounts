@@ -1,0 +1,4 @@
+Whatcounts
+==========
+
+Whatcounts email templates
