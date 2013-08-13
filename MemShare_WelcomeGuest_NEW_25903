@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+body { width: 100% !important; }
+body { background-color: #dedede !important; margin: 0 !important; padding: 0 !important; }
+body { font-family: 'Open Sans', sans-serif !important; }
+table td { }
+table { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+a { color: #009999; }
+a:link,
+ a:visited { color: #009999; text-decoration: none; }
+.ReadMsgBody { width: 100% !important; }
+.ExternalClass { width: 100% !important; display: block !important; }
+.yshortcuts a:visited { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.yshortcuts a:hover { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.appleLinks a { color: #555555; text-decoration: none; }
+.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+.appleLinksWhite a:link,
+ .appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+#outlook a { padding: 0; }
+.ExternalClass { width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div { line-height: 100%; }
+#backgroundTable { margin: 0; padding: 0; width: 100% !important; line-height: 100% !important; }
+ @media only screen and (max-device-width: 480px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+ @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+ @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:.75) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:1) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:1.5) {
+}
+</style>
+<!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+</head>
+<body style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 100% !important; font-family: 'Open Sans', Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: #dedede;" bgcolor="#dedede">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #dedede;" bgcolor="#dedede">
+  <tr>
+    <td bgcolor="#dedede"><table border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><a href="http://www.yesvideo.com" title="YesVideo"><img src="http://media.whatcounts.com/yesvideo/img/YesVideo-header.jpg" alt="YesVideo" height="63" width="680" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></a></td>
+        </tr>
+      </table>
+      <table width="680" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="background-color:#FFF">
+        <tr>
+          <td style="padding-top:30px;"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 5px;">Welcome %%$first%%</td>
+              </tr>
+              <tr>
+                <td width="600" style="color:#555555; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:20px; font-weight:300;">Thanks for signing in to view and comment on %%$conv_initiator%%'s video, %%$conv_title%%.</td>
+              </tr>
+              <tr>
+                <td style="color: #009999; font-size: 18px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 5px;">Transfer your own vintage videos to digital, just like %%$conv_initiator%%.</td>
+              </tr>
+              <tr>
+                <td style="color:#555555; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:20px; font-weight:300;">YesVideo offers video transfer services so you can view your beloved memories again without VCRs or film projectors. Reminisce about funny and nostalgic days. Post and share your own videos via email or Facebook.<br />
+                  <br />
+                  Get your videos transferred today!<br />
+                  <br />
+                  <a href="http://direct.yesvideo.com" title="Transfer my videos"><img src="http://media.whatcounts.com/yesvideo/img/transfer-my-videos.jpg" alt="Transfer my videos" width="201" height="42" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td style="padding-top:5px;"><img src="http://media.whatcounts.com/yesvideo/img/shade-divider.jpg" alt="" width="678" height="21" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+        </tr>
+        <tr>
+          <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="color:#000000; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:20px; padding-bottom:10px; padding-left:5px;">Get your videos online today.</td>
+              </tr>
+              <tr>
+                <td><table width="600" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td width="600" align="left"><table id="steps" width="600" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td width="186" height="145"><img src="http://media.whatcounts.com/yesvideo/img/ts-home-movies.jpg" width="186" height="145" alt="home movies" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+                            <td width="20" height="145"></td>
+                            <td width="186" height="145"><img src="http://media.whatcounts.com/yesvideo/img/ts-transfered-to-dvd.jpg" width="186" height="145" alt="transfered to DVD" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+                            <td width="22" height="145"></td>
+                            <td width="186" height="145"><img src="http://media.whatcounts.com/yesvideo/img/ts-view-online.jpg" width="186" height="145" alt="view online" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+                          </tr>
+                          <tr>
+                            <td width="186" valign="top" style="color:#555555; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:13px; padding-top:20px; padding-left:10px; font-weight:300;">YesVideo transfers more than 1 million videotapes and film reels every year with retailer partners nationwide.</td>
+                            <td width="20"></td>
+                            <td width="186" valign="top" style="color:#555555; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:13px; padding-top:20px; padding-left:10px; padding-right:5px; font-weight:300;">Create and order custom DVDs of your transferred videos directly online.</td>
+                            <td width="22"></td>
+                            <td width="186" valign="top" style="color:#555555; font-family: 'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:13px; padding-top:20px; padding-left:10px; padding-right:5px; font-weight:300;">Watch and share your transferred videos from the YesVideo account you've already created.</td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#cccccc; padding-top:30px; padding-bottom:10px; padding-left:10px;">Questions? Visit our <a href="http://help.share.yesvideo.com/" style="color: #009999; text-decoration: none; text-decoration:underline">Help Center</a> or contact our Customer Care team at (855) 756-8744</td>
+              </tr>
+              <tr>
+                <td class="appleLinks" style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 12px; padding-top: 10px; padding-left: 10px; padding-bottom:35px; font-weight:300;">View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color: #009999; text-decoration: none; font-family: 'Open Sans', Arial, sans-serif;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">terms of service</span></a>. <a href="http://whatcounts.com/bin/listctrl?c=unsubscribe&s=5C84B893BD6D939E8E0BB60F200C6801&e=%%$email%%&g=http%3A%2F%2Fwhatcounts.com/bin/msv?r=2697%26a=unsub_survey%26t=env%26id=%%SUBSCRIBER_ID_TAG%%" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">Unsubscribe</span></a><br style="line-height: 100%;" />
+                  3281 Scott Blvd., Santa Clara, CA 95054</td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>
