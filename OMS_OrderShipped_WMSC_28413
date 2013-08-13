@@ -1,0 +1,273 @@
+%%SET PHOTO = "YesVideo"%%
+%%SET PARTNER = "YesVideo"%%
+%%SET PHONE_NUM = "1-866-493-7383"%%
+%%SET BANNER_HREF = "http://www.yesvideo.com"%%
+%%SET BANNER_URL = "http://media.whatcounts.com/yesvideo/logo-YesVideo.jpg"%%
+%%SET BANNER_ALT = "YesVideo"%%
+%%SET SUPPORT_EMAIL = "support@yesvideo.com"%%
+%%SET DO_LOCATION = "with YesVideo"%%
+%%SET STEP_URL = "http://media.whatcounts.com/yesvideo/img/Online_Viewing.jpg"%%
+%%SET STEP_ALT = "Online Viewing"%%
+
+%%IF PartnerTypeID = "46" THEN IncludeArticle OMS_Fields2_Bartell%%
+%%IF PartnerTypeID = "36" THEN IncludeArticle OMS_Fields2_Costco%%
+%%IF PartnerTypeID = "45" THEN IncludeArticle OMS_Fields2_Cvs%%
+%%IF PartnerTypeID = "44" THEN IncludeArticle OMS_Fields2_Ritz%%
+%%IF PartnerTypeID = "52" THEN IncludeArticle OMS_Fields2_SamsClub%%
+%%IF PartnerTypeID = "43" THEN IncludeArticle OMS_Fields2_Walgreens%%
+%%IF PartnerTypeID = "76" THEN IncludeArticle OMS_Fields2_Walmart%%
+%%IF PartnerTypeID = "64" THEN IncludeArticle OMS_Fields2_Target%%
+%%IF PartnerTypeID = "65" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "66" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "78" THEN IncludeArticle OMS_Fields2_Archivers%%
+
+%%IF PartnerTypeID = "52" THEN SET BANNER_HREF = "http://www.samsclubdvd.com/"%%
+%%IF PartnerTypeID = "52" THEN SET BANNER_URL = "http://media.whatcounts.com/yesvideo/samsclub_header.jpg"%%
+%%IF PartnerTypeID = "52" THEN SET BANNER_ALT = "SamsClub"%%
+
+%%SET TERMS_LINK = "http://www.yesvideo.com/terms-of-service.aspx"%%
+%%SET PRIVACY_LINK = "http://www.yesvideo.com/privacy-policy.aspx"%%
+
+%%IF PartnerTypeID = "52" THEN SET TERMS_LINK = "http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=termsandconditions"%%
+%%IF PartnerTypeID = "52" THEN SET PRIVACY_LINK = "http://www.samsclub.com/sams/pagedetails/content.jsp?pageName=privacyPolicy"%%
+
+%%SET S_FLAG = "1"%%
+
+%%SET MUSICFLAG = "1"%%
+%%SET MSFLAG = "1"%%
+
+%%SET DVD_BLURAY = "DVD"%%
+%%IF IsBluRay= "TRUE" THEN DVD_BLURAY = "BluRay"%%
+
+%%SET ONCEFLAG = "1"%%
+
+%%SET ORDER_ORDERS = "order"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ORDER_ORDERS = "orders"%%
+
+%%SET INCLUDE_INCLUDES = "includes"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET INCLUDE_INCLUDES = "include"%%
+
+%%SET ARE_IS = "is"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ARE_IS = "are"%%
+
+%%SET HAVE_HAS = "has"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET HAVE_HAS = "have"%%
+
+%%SET ONE_MULTIPLE = ""%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ONE_MULTIPLE = "s"%%
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style type="text/css">
+	body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+	body { width: 100% !important; }
+	body { background-color: #EEEEEE !important; margin: 0 !important; padding: 0 !important; }
+	body { font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif !important; }
+	img { outline: none !important; text-decoration: none !important; display: block !important; }
+	a img {border:none;}
+	.image_fix {display:block;}
+	table td {border-collapse: collapse;}
+	table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+	a {color: #009999;}
+	a:link,
+	a:visited { color: #009999; text-decoration: none; }
+	.ReadMsgBody { width: 100% !important; }
+	.ExternalClass { width: 100% !important; display: block !important; }
+	.yshortcuts a:visited { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.yshortcuts a:hover { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.appleLinks a { color: #555555; text-decoration: none; }
+	.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+	.appleLinksWhite a:link,
+	.appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+	#outlook a {padding:0;}
+	.ExternalClass {width:100%;}
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} 
+	#backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+	@media only screen and (max-device-width: 480px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color: #555555;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #555555 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color:#555555;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #555555 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+	}
+	@media only screen and (-webkit-device-pixel-ratio:.75){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1.5){
+	}
+</style>
+<!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+</head>
+<body style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 100% !important; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: #EEEEEE;" bgcolor="#EEEEEE">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #dedede;" bgcolor="#dedede">
+	<tbody>
+	  <tr style="border-collapse: collapse;">
+		<td align="center" bgcolor="#EEEEEE" style="border-collapse: collapse;"><table width="720" border="0" cellpadding="0" cellspacing="0">
+		  <tbody>
+		    <tr>
+		      <td><a href="%%$BANNER_HREF%%"><img src="%%$BANNER_URL%%" alt="%%$BANNER_ALT%%" height="88" width="720" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></a></td>
+	        </tr>
+	      </tbody>
+		  </table>
+		  <table width="677" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr style="border-collapse: collapse;">
+              <td width="185" height="103" style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/Order_Received.jpg" width="185" height="103" alt="Order Received" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+              <td width="55" height="103" style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/arrow1.jpg" width="55" height="103" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+              <td width="196" height="103" style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/Order_Shipped_checked.jpg" width="196" height="103" alt="Order Shipped" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+              <td width="50" height="103" style="border-collapse: collapse;"><img src="http://media.whatcounts.com/yesvideo/img/arrow2.jpg" width="50" height="103" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+              <td width="191" height="103" style="border-collapse: collapse;"><img src="%%$STEP_URL%%" alt="%%$STEP_ALT%%" width="191" height="103" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" /></td>
+            </tr>
+          </tbody>
+        </table>        
+        	<table style="margin-top: 0; margin-right: 10px; margin-bottom: 0; margin-left: 10px;" width="680" cellpadding="0" cellspacing="0" border="0">
+            	<tbody>
+            	<tr style="border-collapse: collapse;">
+                  <td width="680" colspan="3" style="border-collapse: collapse;">
+                        <table width="680" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="border-radius: 10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; -webkit-border-radius: 10px 10px 0px 0px; -webkit-font-smoothing: antialiased; background-color: #ffffff; color: #555555;">
+                          <tbody>
+                            <tr style="border-collapse: collapse;">
+                              <td height="20" style="border-collapse: collapse;"></td>
+                            </tr>
+                          </tbody>
+                        </table>
+                  </td>
+                </tr>
+                <tr style="border-collapse: collapse;">
+                <td width="680" colspan="3" align="center" bgcolor="#ffffff" style="border-collapse: collapse;">
+    <table width="680" cellpadding="0" cellspacing="0" border="0"><tr><td></td>
+        <tbody><tr style="border-collapse: collapse;"><td width="20" style="border-collapse: collapse;"></td><td width="640" height="30" align="left" style="border-collapse: collapse;"><table width="680" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr style="border-collapse: collapse;"><td width="20" style="border-collapse: collapse;"></td><td width="640" height="30" align="left" style="border-collapse: collapse;"><span style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:16px; width:640px !important; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; display:block;">Dear %%$FirstName%%,<br /><br />
+          We're excited to let you know that your %%$PHOTO%% %%$ORDER_ORDERS%% %%$ARE_IS%% complete! Your new %%$DVD_BLURAY%%%%$ONE_MULTIPLE%% along with your original materials should arrive at %%$PHOTO%% within 7 days.</span></td><td width="20" style="border-collapse: collapse;"></td></tr>
+
+<tr><td colspan="3"></td></tr>
+
+    </tbody></table></td><td width="20" style="border-collapse: collapse;"></td></tr>
+        <tr style="border-collapse: collapse;">
+            <td width="20" style="border-collapse: collapse;"></td>
+            <td width="640" height="20" style="border-collapse: collapse;"></td>
+            <td width="20" style="border-collapse: collapse;"></td>
+        </tr>
+        <tr style="border-collapse: collapse;">
+          <td style="border-collapse: collapse;"></td>
+          <td style="padding-bottom: 1px; border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;"><table width="640" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#e6e6e6" style="border-radius: 10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; -webkit-border-radius: 10px 10px 0px 0px; -webkit-font-smoothing: antialiased; background-color: #e6e6e6;">
+                                          <tbody>
+                                            <tr style="border-collapse: collapse;">
+                                              <td width="640" style="padding-top: 10px; padding-left: 5px; padding-right: 5px; border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">
+                                                <table width="612" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                  <tr style="border-collapse: collapse;">
+                                                    <td width="612" style="border-collapse: collapse;"><table width="610" border="0" cellpadding="0" cellspacing="0">
+                                                          <tbody>
+                                                            <tr style="border-collapse: collapse;">
+                                                              <td width="203" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 14px; font-weight: bold; padding-bottom: 10px; border-collapse: collapse;">Order Details</td>
+                                                              <td width="204" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 14px; padding-bottom: 10px; text-align: center; border-collapse: collapse;" align="center"><b>Order Date:</b> %%$LastReceivedAt%%</td>
+                                                              <td width="203" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 14px; padding-bottom: 10px; text-align: right; border-collapse: collapse;" align="right"><b>Service Time:</b> %%$SERVICE_TIME%%</td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </tbody>
+                      </table></td>
+          <td style="border-collapse: collapse;"></td>
+        </tr>
+        <tr style="border-collapse: collapse;">
+            <td width="20" style="border-collapse: collapse;"></td>
+            <td width="640" style="border-collapse: collapse;"><table width="640" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F1F1F1" style="border-radius: 0px 0px 10px 10px; -moz-border-radius: 0px 0px 10px 10px; -webkit-border-radius: 0px 0px 10px 10px; -webkit-font-smoothing: antialiased;">
+                                  <tr style="border-collapse: collapse;">
+                                    <td style="padding-bottom: 10px; border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;"><table width="640" border="0" align="center" cellpadding="0" cellspacing="0" style="-webkit-font-smoothing:antialiased; background-color:#F1F1F1;">
+                                      <tr>
+                                        <td nowrap height="34" width="15"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" width="15" height="34" style="border:none;display:block;" /></td><td nowrap height="34" style="padding-right:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:left;">Order #</td><td nowrap height="34" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;">Media</td><td nowrap height="34" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;">Qty</td><td height="34" width="99%" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-seriff; font-size:12px; font-weight:bold; text-align:left;">DVD Title</td>
+                                        <td nowrap height="34" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:left;">
+
+%%foreach "Orders" article "OMS_Music_Header2"%%
+
+</td><td nowrap height="34" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:left;">Theme</td>
+                                      <td height="34" nowrap="nowrap" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; font-weight:bold; text-align:center;">Add'l DVDs</td><td nowrap height="34" width="88" style="padding-top:5px; padding-bottom:5px; padding-left:3px;"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" width="85" height="24" style="border:none;display:block;" /></td><td nowrap height="34" width="15"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" width="15" height="34" style="border:none;display:block;" /></td></tr>
+
+%%foreach "Orders" article "OMS_Retailer_Order_ShippingWOTDetails"%%
+
+</table></td></tr></table>
+                      </td>
+            <td width="20" style="border-collapse: collapse;"></td>
+        </tr>
+        <tr style="border-collapse: collapse;">
+          <td width="20" style="border-collapse: collapse;"></td>
+          <td width="640" height="20" style="border-collapse: collapse;"></td>
+          <td width="20" style="border-collapse: collapse;"></td>
+        </tr>
+        <tr style="border-collapse: collapse;">
+          <td width="20" style="border-collapse: collapse;"></td>
+          <td width="640" style="border-collapse: collapse;"><table width="640" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tbody>
+              <tr style="border-collapse: collapse;">
+                <td width="640" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; -webkit-font-smoothing: antialiased; padding-bottom: 15px; padding-top: 15px; border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; background-color: #EEEEEE;" bgcolor="#EEEEEE">
+                  <table width="610" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr style="border-collapse: collapse;">
+                      <td class="appleLinks" align="left" nowrap="nowrap" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 14px; border-collapse: collapse;"><b>%%$PartnerLocationName%%</b><br />%%$PartnerLocationAddress%% <br />%%$PartnerLocationCity%%, %%$PartnerLocationState%% %%$PartnerLocationPostalCode%%<br />%%$PartnerLocationPhone%%
+                        </tr>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <td width="20" style="border-collapse: collapse;"></td>
+        </tr>
+    </tbody></table></td>
+                </tr>
+                <tr style="border-collapse: collapse;"><td width="680" height="20" colspan="3" bgcolor="#ffffff" style="border-collapse: collapse;"></td></tr>
+               <tr style="border-collapse: collapse;">
+                <td width="680" colspan="3" style="border-collapse: collapse;">
+    <table width="680" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#999999" style="border-radius: 0px 0px 10px 10px; -moz-border-radius: 0px 0px 10px 10px; -webkit-border-radius: 0px 0px 10px 10px; -webkit-font-smoothing: antialiased; color: #ffffff;">
+        <tbody><tr style="border-collapse: collapse;"><td width="20" height="15" style="border-collapse: collapse;"></td><td height="15" style="border-collapse: collapse;"></td><td width="20" height="15" style="border-collapse: collapse;"></td></tr>
+        <tr style="border-collapse: collapse;">
+            <td width="20" style="border-collapse: collapse;"></td>
+            <td valign="top" style="color: #FFFFFF; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 14px; font-weight: bold; border-collapse: collapse;" class="appleLinksWhite">Call %%$PHONE_NUM%% or email us at <a href="mailto:support@yesvideo.com" style="color: #ffffff !important; text-decoration: none; font-weight: bold;"><span style="color: #ffffff !important;">support@yesvideo.com</span></a></td>
+            <td width="20" style="border-collapse: collapse;"></td>
+        </tr>
+        <tr style="border-collapse: collapse;"><td width="20" style="border-collapse: collapse;"></td><td height="15" style="border-collapse: collapse;"></td><td width="20" style="border-collapse: collapse;"></td></tr>
+    </tbody></table>
+</td>
+                </tr>
+                <tr style="border-collapse: collapse;"><td class="appleLinks" width="680" height="60" colspan="3" align="left" style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 12px; padding-top: 20px; padding-bottom: 20px; padding-left: 20px; border-collapse: collapse;">You are receiving this email because you placed a video transfer order at %%$PHOTO%%. <br style="line-height: 100%;" />View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color: #009999; text-decoration: none; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">terms of service</span></a>.<br style="line-height: 100%;" /><br style="line-height: 100%;" />3281 Scott Blvd., Santa Clara, CA 95054<br style="line-height: 100%;" />©2013 YesVideo Inc.</td></tr>
+          </tbody></table>
+        </td>
+	</tr>
+</tbody></table>
+</body>
+</html>
