@@ -1,0 +1,211 @@
+%%SET DVD_BLURAY = "DVD"%%
+%%IF IsBluRay= "TRUE" THEN DVD_BLURAY = "BluRay"%%
+
+%%SET ONCEFLAG = "1"%%
+
+%%SET S_FLAG = "1"%%
+
+%%SET MUSICFLAG = "1"%%
+
+%%set days = "17"%%
+%%if isRush = "TRUE" THEN set days = "10"%%
+
+%%SET SERVICE_TIME = "Standard"%%
+%%IF IsRush = "TRUE" THEN SET SERVICE_TIME = "Rush"%%
+
+%%SET ORDER_ORDERS = "order"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ORDER_ORDERS = "orders"%%
+
+%%SET INCLUDE_INCLUDES = "includes"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET INCLUDE_INCLUDES = "include"%%
+
+%%SET ARE_IS = "is"%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ARE_IS = "are"%%
+
+%%SET HAVE_HAS = "has"%% 
+%%IF IsMultipleOrder = "TRUE" THEN SET HAVE_HAS = "have"%%
+
+%%SET ONE_MULTIPLE = ""%%
+%%IF IsMultipleOrder = "TRUE" THEN SET ONE_MULTIPLE = "s"%%
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+@media only screen and (min-device-width :320px) and (max-device-width :480px) {
+body { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+}
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+body { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+}
+@media only screen and (-webkit-min-device-pixel-ratio :1.5), only screen and (min-device-pixel-ratio :1.5) {
+body { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+}
+.yshortcuts,
+.yshortcuts a,
+.yshortcuts a:link,
+.yshortcuts a:visited,
+.yshortcuts a:hover,
+.yshortcuts a span { color: black; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.ExternalClass { width: 100%; display: block !important; }
+.appleLinks a { color: #555555; text-decoration: none; }
+.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+a:link,
+a:visited { color: #555555; text-decoration: underline; }
+.appleLinksWhite a:link,
+.appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+</style>
+
+</head>
+<body style="margin:0; padding:0; display:block;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#eeeeee">
+  <tbody>
+    <tr>
+      <td bgcolor="#eeeeee">
+      
+      	<table width="720" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td><span style="position:relative; display:block; height:88px;"><a href="http://www.costcodvd.com" class="Costco" style="display:block; height:auto; color:#009999;font-weight:bold; text-decoration:none;"><b></b><img style="font-size:20px; border:none; font-size:14px; height:88px; outline:none; text-decoration:none;  font-weight:bold;"  alt="Costco 1-Hour Photo | YesVideo" height="88" width="720" src="http://media.whatcounts.com/yesvideo/logo-Costco.jpg" /></a></span></tr>
+            <tr>
+              <td>
+                <span style="position:relative; display:block; height:14px;"><img style="border:none;" alt="" height="14" width="720" src="http://media.whatcounts.com/yesvideo/header-stripe.jpg" /></span>
+            </tr>
+          </tbody>
+        </table>
+        <table width="676" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td width="185" height="103"><img src="http://media.whatcounts.com/yesvideo/img/Order_Received_Checked.jpg" width="185" height="103" alt="Order Received" style="border:none;display:block;" /></td>
+              <td width="54" height="103"><img src="http://media.whatcounts.com/yesvideo/img/arrow1.jpg" width="54" height="103" style="border:none;display:block;" /></td>
+              <td width="196" height="103"><img src="http://media.whatcounts.com/yesvideo/img/Ready_for_Pickup.jpg" width="196" height="103" alt="Ready for Pickup" style="border:none;display:block;" /></td>
+              <td width="50" height="103"><img src="http://media.whatcounts.com/yesvideo/img/arrow2.jpg" width="50" height="103" style="border:none;display:block;" /></td>
+              <td width="191" height="103"><img src="http://media.whatcounts.com/yesvideo/img/Online_Viewing.jpg" width="191" height="103" alt="Online Viewing" style="border:none;display:block;" /></td>
+            </tr>
+          </tbody>
+        </table>
+        <table width="676" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td width="676" bgcolor="#ffffff"><table width="676" cellpadding="0" cellspacing="0" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="18" height="18" valign="top"><img src="http://media.whatcounts.com/yesvideo/img/cornerHL.gif" width="18" height="18" style="border:none;display:block;" /></td>
+                      <td width="640" height="18" valign="top">&nbsp;</td>
+                      <td width="18" height="18" valign="top"><img src="http://media.whatcounts.com/yesvideo/img/cornerHR.gif" width="18" height="18" style="border:none;display:block;" /></td>
+                    </tr>
+                    <tr>
+                      <td width="18">&nbsp;</td>
+                      <td width="640"><table width="640" cellpadding="0" cellspacing="0" border="0">
+                          <tbody>
+                            <tr>
+                              <td width="640" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:16px; width:640px !important; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; display:block;"> Dear %%$FirstName%%,<br />
+                                <br />
+                                Thank you for your recent Costco 1-Hour Photo %%$ORDER_ORDERS%%. Your %%$ORDER_ORDERS%% %%$HAVE_HAS%% arrived at our production facility. Please allow up to %%$days%% days for processing. You'll receive another email from us once your %%$ORDER_ORDERS%% %%$ARE_IS%% ready for pick-up at Costco.<br />
+                                <br />
+                                <table width="640" border="0" cellpadding="0" cellspacing="0" bgcolor="#e6e6e6" style="-webkit-font-smoothing:antialiased; background-color:#e6e6e6; table-layout:fixed;">
+                                  <tbody>
+                                    <tr>
+                                      <td width="15" height="34" align="left" valign="top" style="width:15px;"><img src="http://media.whatcounts.com/yesvideo/img/cornerTL.gif" width="15" height="15" style="border:none;display:block;" /></td>
+                                      <td width="203" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:14px; font-weight:bold; padding-bottom:10px; padding-top:10px;">Order Details</td>
+                                      <td width="204" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:14px; padding-bottom:10px; padding-top:10px; text-align:center;"><b>Order Date:</b>  %%foreach "Orders" article "OMS_Costco_OrderDate1"%%</td>
+                                      <td width="203" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:14px; padding-bottom:10px; padding-top:10px; text-align:right"><b>Service Time:</b> %%$SERVICE_TIME%%</td>
+                                      <td width="15" height="34" valign="top" style="width:15px;"><img src="http://media.whatcounts.com/yesvideo/img/cornerTR.gif" width="15" height="15" style="border:none;display:block;" /></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+								<table width="640" border="0" cellspacing="0" cellpadding="0" style="-webkit-font-smoothing:antialiased; background-color:#F1F1F1;">
+                                  <tr>
+                                    <td width="640" height="1" colspan="10" bgcolor="#FFFFFF" style="line-height:0; font-size:0;"></td>
+                                  </tr>
+                                  <tr>
+                                    <td height="34" nowrap width="15"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" alt="" width="15" height="1" style="border:none;display:block;" /></td>
+                                    <td height="34" nowrap class="appleLinks" style="padding-right:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:left; font-weight:bold">Order #</td>
+                                    <td height="34" nowrap style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:center; font-weight:bold">Media</td>
+                                    <td height="34" nowrap style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:center; font-weight:bold">Qty</td>
+                                    <td height="34" style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:left; font-weight:bold" width="99%">DVD Title</td>
+                                    <td height="34" nowrap style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:left; font-weight:bold">%%foreach "Orders" article "OMS_Music_Header2"%%</td>
+                                    <td height="34" nowrap style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:left; font-weight:bold">Theme</td>
+                                    <td height="34" nowrap style="padding-right:3px; padding-left:3px; color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; text-align:center; font-weight:bold">Copies</td>
+                                    <td height="34" nowrap width="88" style="padding-left:3px;"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" alt="" width="85" height="34" border="0" style="display:block" /></td>
+                                    <td height="34" nowrap width="15"><img src="http://media.whatcounts.com/yesvideo/img/spacer.gif" alt="" width="15" height="1" style="border:none;display:block;" /></td>
+                                  </tr>
+                                  %%foreach "Orders" article "OMS_Retailer_Order_Details2"%%
+                                </table>
+                                <table width="640" border="0" cellpadding="0" cellspacing="0" bgcolor="#F1F1F1" style="-webkit-font-smoothing:antialiased; background-color:#F1F1F1; table-layout:fixed;">
+                                  <tbody>
+                                    <tr>
+                                      <td height="10" width="15" valign="bottom" style="width:15px;"><img src="http://media.whatcounts.com/yesvideo/img/cornerBL.gif" width="15" height="15" style="border:none;display:block;" /></td>
+                                      <td height="10" width="610" style="border:none;display:block;"></td>
+                                      <td height="10" width="15" valign="bottom" style="width:15px;"><img src="http://media.whatcounts.com/yesvideo/img/cornerBR.gif" width="15" height="15" style="border:none;display:block;" /></td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <table width="640" border="0" cellpadding="0" cellspacing="0">
+                                  <tbody>
+                                    <tr>
+                                      <td valign="top" class="appleLinks" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:14px; padding-left:15px; padding-top:10px; padding-bottom:30px;"><b>%%$PartnerLocationName%%</b><br />%%$PartnerLocationAddress%% <br />%%$PartnerLocationCity%%, %%$PartnerLocationState%% %%$PartnerLocationPostalCode%%<br />%%$PartnerLocationPhone%% </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <table width="640" border="0" cellpadding="0" cellspacing="0">
+                                  <tbody>
+                                    <tr>
+                                      <td height="20" style="border:none;display:block;"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; padding-bottom:20px; padding-bottom:10px;"></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                                    </tr>
+                                  </tbody>
+                                </table></td>
+                              <td width="18" style="line-height:0; font-size:0;"></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td width="676"><table width="676" cellpadding="0" cellspacing="0" border="0" bgcolor="#999999">
+                          <tbody>
+                            <tr>
+                              <td width="20" height="15" style="line-height:0; font-size:0;"></td>
+                              <td width="636" height="15" style="line-height:0; font-size:0;"></td>
+                              <td width="20" height="15" style="line-height:0; font-size:0;"></td>
+                            </tr>
+                            <tr>
+                              <td width="20" style="line-height:0; font-size:0;"></td>
+                              <td width="636" style="color:#FFFFFF; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;font-size:14px; font-weight:bold;">Call 1-866-463-7694 or email us at <a href="mailto:questions@costcodvd.com" style="color:#ffffff !important;"><span class="appleLinksWhite" style="color:#ffffff !important;">questions@costcodvd.com</span></a></td>
+                              <td width="20" style="line-height:0; font-size:0;"></td>
+                            </tr>
+                            <tr>
+                              <td width="20" height="15" align="left" valign="bottom"><img src="http://media.whatcounts.com/yesvideo/img/cornerFL.gif" alt="" width="20" height="15" style="border:none;display:block;" /></td>
+                              <td width="636" height="15" style="line-height:0; font-size:0;"></td>
+                              <td width="20" height="15" align="right" valign="bottom"><img src="http://media.whatcounts.com/yesvideo/img/cornerFR.gif" alt="" width="20" height="15" style="border:none;display:block;" /></td>
+                            </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td width="676" align="left" class="appleLinks" style="color:#555555; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:12px; padding-top:20px; padding-bottom:20px;"> You are receiving this email because you placed a video transfer order at Costco 1-Hour Photo. <br />
+                        View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color:#009999; text-decoration:none; font-family:'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color:#009999; text-decoration:none"><span style="color:#009999; text-decoration:none">terms of service</span></a>.<br />
+                        <br />
+                        3281 Scott Blvd., Santa Clara, CA 95054<br />
+                        ©2013 YesVideo Inc.</td>
+                    </tr>
+                  </tbody>
+                </table>
+                
+       </td>
+      </tr>
+    </tbody>
+  </table>
+  	  </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
