@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+%%article mshare_header%%
+<title></title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<style type="text/css">
+#eml a:link,
+a:hover,
+a:active,
+a:visited,
+a:visited:hover { color: #0099A5; text-decoration: underline }
+</style>
+</head>
+<body>
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="102" width="720">
+  <tbody>
+    <tr>
+      <td><a href="http://share.yesvideo.com"><img alt="YesVideo" border="0" height="102" src="http://media.whatcounts.com/yesvideo/mshare/logo-YesVideo.jpg" style="display:block;" width="720" /></a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="668">
+  <tbody>
+    <tr>
+      <td height="95" width="13">  </td>
+      <td bgcolor="#FFFFFF" colspan="4" height="95" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#555555;" valign="top" width="642"> Dear %%$FirstName%%,<br />
+        <br />
+        Thank you for placing your DVD order with YesVideo. Please allow up to 7-10 business days for your order to arrive.</td>
+      <td height="95" width="13">  </td>
+    </tr>
+    <tr>
+      <td colspan="6" height="2" width="668"><img alt="" height="2" src="http://media.whatcounts.com/yesvideo/ms/OrderConfirmation_05.gif" style="display:block;" width="668" /></td>
+    </tr>
+    <tr>
+      <td colspan="6" height="26" width="668">  </td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFFFFF" width="13">  </td>
+      <td bgcolor="#FFFFFF" colspan="4" valign="top" width="642"><table align="center" border="0" cellpadding="0" cellspacing="0" width="640">
+          <tbody>
+            <tr>
+              <td colspan="3"><img alt="" border="0" height="20" src="http://media.whatcounts.com/yesvideo/modules/widget_large_top640.jpg" style="display: block;" width="640" /></td>
+            </tr>
+            <tr>
+              <td bgcolor="#F1F1F1" width="18">  </td>
+              <td bgcolor="#F1F1F1" valign="top" width="604">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                  <tbody>
+                    <tr>
+                      <td colspan="4" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><span style="color: rgb(63, 63, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold;">Order #: <strong>%%$OrderNumber%%</strong></span></td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" height="15">  </td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" width="405"><strong>DVD Title</strong></td>
+                      <td align="right" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" width="100"><strong>Quantity</strong></td>
+                      <td height="1" width="20">  </td>
+                      <td align="left" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" width="79"><strong>Price</strong></td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" height="10" style="border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(255, 255, 255) currentColor currentColor;">  </td>
+                    </tr>
+%%foreach "OrderItems" article "Title_Quantity_Price"%%
+                    <tr>
+                      <td colspan="4" height="15" style="border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(255, 255, 255) currentColor currentColor;">  </td>
+                    </tr>
+                    <tr>
+                      <td width="405">  </td>
+                      <td align="right" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" valign="top" width="100"><span style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">Subtotal</span><br />
+                        Coupon<br />
+                        %%IF GiftCardDiscount != "" THEN print "Gift Card</br>"%%
+                        Tax<br />
+                        Shipping<br />
+                        <br />
+                        <span style="color: rgb(63, 63, 63); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">TOTAL</span></td>
+                      <td width="20">  </td>
+                      <td align="left" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" valign="top" width="79"><span style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">$ %%$Subtotal%%</span><br />
+                        $ %%$Coupon%%<br />
+                        %%IF GiftCardDiscount != "" THEN IncludeArticle GiftCardDiscount_DvdOrder%%
+                        $ %%$Tax%%<br />
+                        $ %%$Shipping%%<br />
+                        <br />
+                        <span style="color: rgb(63, 63, 63); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;">$ %%$Total%%</span></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+              <td bgcolor="#F1F1F1" width="18">  </td>
+            </tr>
+            <tr>
+              <td colspan="3"><img alt="" border="0" height="20" src="http://media.whatcounts.com/yesvideo/modules/widget_large_bottom640.jpg" style="display: block;" width="640" /></td>
+            </tr>
+            <tr>
+              <td colspan="3" height="8">  </td>
+            </tr>
+          </tbody>
+        </table></td>
+      <td width="13">  </td>
+    </tr>
+    <tr>
+      <td colspan="6" height="22" width="668">  </td>
+    </tr>
+    <tr>
+      <td height="136" width="13">  </td>
+      <td height="136" width="18">  </td>
+      <td bgcolor="#FFFFFF" height="136" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" valign="top" width="227"><strong>Billing Information</strong><br />
+        %%$BName%%<br />
+        %%$BAddress1%%<br />
+        %%$BAddress2%%%%IF BAddress2 != "" THEN print<br />
+        %% %%$BCity%%%%IF BCity != "" THEN print ","%% %%$BState%%%%IF BState != "" THEN print ","%% %%$BZip%%</td>
+      <td bgcolor="#FFFFFF" height="136" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" valign="top" width="227"><strong>Shipping Information</strong><br />
+        %%$SName%%<br />
+        %%$SAddress1%%<br />
+        %%$SAddress2%%%%IF SAddress2 != "" THEN print<br />
+        %% %%$SCity%%, %%$SState%%, %%$SZip%%</td>
+      <td bgcolor="#FFFFFF" height="136" style="color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 12px;" valign="top" width="170">> <a href="http://share.yesvideo.com/orders" style="color:#099; text-decoration:none;">View Your Account</a></td>
+      <td height="136" width="13">  </td>
+    </tr>
+  </tbody>
+</table>
+%%article mshare_footer%%
+</body>
+</html>
