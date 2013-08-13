@@ -1,0 +1,294 @@
+%%SET PHONE_NUM = "1-866-493-7383"%%
+
+%%IF PartnerTypeID = "46" THEN IncludeArticle OMS_Fields2_Bartell%%
+%%IF PartnerTypeID = "36" THEN IncludeArticle OMS_Fields2_Costco%%
+%%IF PartnerTypeID = "45" THEN IncludeArticle OMS_Fields2_Cvs%%
+%%IF PartnerTypeID = "52" THEN IncludeArticle OMS_Fields2_SamsClub%%
+%%IF PartnerTypeID = "76" THEN IncludeArticle OMS_Fields2_Walmart%%
+%%IF PartnerTypeID = "64" THEN IncludeArticle OMS_Fields2_Target%%
+%%IF PartnerTypeID = "65" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "66" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "78" THEN IncludeArticle OMS_Fields2_Archivers%%
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+body { width: 100% !important; }
+body { background-color: #dedede !important; margin: 0 !important; padding: 0 !important; }
+body { font-family: 'Open Sans', sans-serif !important; }
+table td { }
+table { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+a { color: #009999; }
+a:link,
+ a:visited { color: #009999; text-decoration: none; }
+.ReadMsgBody { width: 100% !important; }
+.ExternalClass { width: 100% !important; display: block !important; }
+.yshortcuts a:visited { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.yshortcuts a:hover { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.appleLinks a { color: #555555; text-decoration: none; }
+.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+.appleLinksWhite a:link,
+.appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+#outlook a { padding: 0; }
+.ExternalClass { width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div { line-height: 100%; }
+#backgroundTable { margin: 0; padding: 0; width: 100% !important; line-height: 100% !important; }
+ @media only screen and (max-device-width: 480px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+ @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+ @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:.75) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:1) {
+}
+ @media only screen and (-webkit-device-pixel-ratio:1.5) {
+}
+</style><!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]--><!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+	</head>
+	<body style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 100% !important; font-family: 'Open Sans', Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: #dedede;" bgcolor="#dedede">
+<table bgcolor="#dedede" border="0" cellpadding="0" cellspacing="0" style="background-color: #dedede;" width="100%">
+	<tbody>
+		<tr>
+			<td>
+				<table align="center" border="0" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td>
+								<a href="http://www.yesvideo.com"><img alt="YesVideo" height="63" src="http://media.whatcounts.com/yesvideo/img/YesVideo-header.jpg" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" width="680" /></a></td>
+						</tr>
+					</tbody>
+				</table>
+				<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="background-color:#FFFFFF" width="680">
+					<tbody>
+						<tr>
+							<td style="padding-top:30px;  padding-bottom:20px;">
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+									<tbody>
+										<tr>
+											<td style="color:#555555; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:15px;" width="456">
+												Dear %%$FirstName%%,</td>
+										</tr>
+										<tr>
+											<td style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">
+												Congratulations on your order with an EasyShip Kit!</td>
+										</tr>
+										<tr>
+											<td style="color: #555555; font-size: 14px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">
+												You will receive an email in 1-2 days when the EasyShip Kit has been processed and sent to you  (It will take another 5-7 days to get delivered to you).</td>
+										</tr>
+									</tbody>
+								</table>
+								<img alt="" height="21" src="http://media.whatcounts.com/yesvideo/img/shade-divider.jpg" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" width="678" />
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+									<tbody>
+										<tr>
+											<td style="color:#555555; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:18px; padding-bottom:20px;">
+												<strong>Next steps: Prepare your videotapes and film</strong>
+												<ol style="margin-top:5px; line-height:1.7em;">
+													<li style="line-height:1.2em;">Prepare your videos for your ESK arrival<br />
+<span style="font-size:14px;">Want to review your original order? 
+<a href="http://share.yesvideo.com/direct_order_history" style="color: #009999; text-decoration:underline;" title="Sign in your account to videw your original order."><span style="color: #009999; text-decoration:underline;">Click here.</span></a></span></li>
+													<li>
+														Once your ESK arrives, follow the packing instructions</li>
+													<li>Simply drop off the kit at your <a href="https://www.ups.com/dropoff?loc=en_US" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: underline;">local UPS store.</span></a></li>
+												</ol>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<img alt="" height="21" src="http://media.whatcounts.com/yesvideo/img/shade-divider.jpg" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" width="678" /></td>
+						</tr>
+						<tr>
+							<td>
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+									<tbody>
+										<tr>
+											<td style="padding-left:27px; padding-top:15px; color:#276665; font-size:20px; background-color:#CFE4E6">
+												Estimated order details: %%$OrderNumber%%</td>
+										</tr>
+										<tr>
+											<td style="padding-left:27px; padding-top:3px; padding-bottom:15px; color:#555555; font-size:14px; background-color:#CFE4E6">
+												Final pricing determined upon transfer completion.</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+									<tbody>
+										<tr>
+											<td style="padding-left:15px; padding-top:15px; padding-bottom:15px; color:#000000; font-size:20px; background-color:#F8F8F8" width="429">
+												Item</td>
+											<td align="center" style="background-color:#F8F8F8; color:#000000; font-size:20px; padding-top:15px; padding-bottom:15px;" width="55">
+												Qty</td>
+											<td style="background-color:#F8F8F8; color:#000000; font-size:20px; padding-top:15px; padding-bottom:15px; padding-left:20px;" width="126">
+												Cost</td>
+										</tr>
+								%%foreach "OrderItems" article "Title_Quantity_Price_2"%%
+										<tr>
+											<td align="right" colspan="2" style="color:#000000; font-size:16px; padding-top:35px; padding-bottom:10px;">
+												Subtotal:</td>
+											<td style="color:#555555; font-size: 16px; padding-top:35px; padding-bottom: 10px; padding-left:20px;">
+												$ %%$Subtotal%%</td>
+										</tr>
+										<tr>
+											<td align="right" colspan="2" style="color:#000000; font-size:16px;  padding-bottom:10px;">
+												Shipping (ESK):</td>
+											<td style="color:#555555; font-size: 16px; padding-bottom: 10px; padding-left:20px;">
+												$ %%$ShippingToYV%%</td>
+										</tr>
+										<tr>
+											<td align="right" colspan="2" style="color:#000000; font-size:16px;  padding-bottom:10px;">
+												Coupon Code:</td>
+											<td style="color:#555555; font-size: 16px; padding-bottom: 10px; padding-left:20px;">
+												-$ %%$Coupon%%</td>
+										</tr>
+										%%IF GiftCardDiscount != "" THEN IncludeArticle GiftCardDiscount%%
+										<tr>
+											<td align="right" colspan="2" style="color:#000000; font-size:16px;  padding-bottom:10px;">
+												Estimated Tax:</td>
+											<td style="color:#555555; font-size: 16px; padding-bottom: 10px; padding-left:20px;">
+												$ %%$Tax%%</td>
+										</tr>
+										<tr>
+											<td align="right" colspan="2" style="color:#000000; font-size:16px;  padding-bottom:15px;">
+												Deposit charged at checkout:</td>
+											<td style="color:#555555; font-size: 16px; padding-bottom: 15px; padding-left:20px;">
+												$ %%$TotalChargedNow%%</td>
+										</tr>
+										<tr>
+											<td align="right" colspan="2" style="color: #000000; font-size: 24px;  padding-bottom:30px;">
+												Total:</td>
+											<td style="color: #EB952C; font-size: 24px; padding-bottom: 25px; padding-left:20px;">
+												$ %%$Total%%</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<img alt="" height="21" src="http://media.whatcounts.com/yesvideo/img/shade-divider.jpg" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" width="678" />
+								<table border="0" cellpadding="0" cellspacing="0">
+									<tbody>
+										<tr>
+											<td valign="top" style="color:#555555; font-size: 16px; padding-left:50px; padding-bottom: 35px; padding-right: 40px;">
+												<span style="font-weight:600">Shipping Address</span><br />
+												%%$SName%%<br />
+												%%$SAddress1%%<br />
+												%%$SAddress2%%%%IF SAddress2 != "" THEN print "<br />"%%
+												%%$SCity%%, %%$SState%% %%$SZip%%</td>
+											<td valign="top" style="color:#555555; font-size: 16px; padding-bottom: 35px;">
+												<span style="font-weight:600">Billing Address</span><br />
+												%%$BName%%<br />
+												%%$BAddress1%%<br />
+												%%$BAddress2%%%%IF BAddress2 != "" THEN print "<br />"%%
+                                                                                                %%$BCity%%, %%$BState%% %%$BZip%%</td>
+									  </tr>
+									</tbody>
+								</table>
+						  </td>
+						</tr>
+						<tr>
+							<td>
+								<table align="center" bgcolor="#f3f3f3" border="0" cellpadding="0" cellspacing="0" style="border-radius: 5px 5px 5px 5px; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;" width="610">
+									<tbody>
+										<tr style="border-collapse: collapse;">
+											<td height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;" width="20">
+												 </td>
+											<td height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">
+												 </td>
+											<td height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;" width="20">
+												 </td>
+										</tr>
+										<tr style="border-collapse: collapse;">
+											<td style="border-collapse: collapse;" width="20">
+												 </td>
+											<td style="border-collapse: collapse;" valign="top">
+												<table border="0" cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr>
+															<td colspan="2" style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">
+																Popular Questions</td>
+														</tr>
+														<tr>
+															<td style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;" valign="top" width="50%">
+																How long does the transfer<br />
+																process take?</td>
+															<td style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;" valign="top" width="50%">
+																How do I watch my videos online?</td>
+														</tr>
+														<tr>
+															<td style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-right:20px;" valign="top" width="45%">
+																Once we've received your materials we'll securely check them and then start the transfer process. Soup to nuts, the total time should take 14 days.</td>
+															<td style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px;" valign="top" width="55%">
+																After the transfer we immediately send you an email with your unique link to your free private online account. Once you've activated your account you can view, share and order DVDs of your videos.</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+											<td style="border-collapse: collapse;" width="20">
+												 </td>
+										</tr>
+										<tr style="border-collapse: collapse;">
+											<td style="border-collapse: collapse;" width="20">
+												 </td>
+											<td height="15" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;">
+												 </td>
+											<td style="border-collapse: collapse;" width="20">
+												 </td>
+										</tr>
+									</tbody>
+								</table>
+								<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+									<tbody>
+										<tr>
+											<td class="appleLinks" style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#cccccc; padding-top:20px; padding-bottom:10px; padding-left:10px;">
+												Questions? Go to our <a href="http://help.direct.yesvideo.com" style="color: #009999; text-decoration: none; text-decoration:underline">Help Center</a> or contact our Customer Care team at %%$PHONE_NUM%%.</td>
+										</tr>
+										<tr>
+											<td class="appleLinks" style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 12px; padding-top: 10px; padding-left: 10px; padding-bottom:35px; font-weight:300;">
+												View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color: #009999; text-decoration: none; font-family: 'Open Sans', Arial, sans-serif; line-height:3em;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">terms of service</span></a>. <a href="../MemShare2/%%UNSUB_HREF%%" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">Unsubscribe</span></a>.<br style="line-height: 100%;" />
+												3281 Scott Blvd., Santa Clara, CA 95054</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
