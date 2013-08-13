@@ -1,0 +1,171 @@
+%%SET BANNER_HREF = "http://www.yesvideo.com"%%
+%%SET BANNER_URL = "http://media.whatcounts.com/yesvideo/logo-YesVideo.jpg"%%
+%%SET BANNER_ALT = "YesVideo"%%
+
+%%IF PartnerTypeID = "46" THEN IncludeArticle OMS_Fields2_Bartell%%
+%%IF PartnerTypeID = "36" THEN IncludeArticle OMS_Fields2_Costco%%
+%%IF PartnerTypeID = "45" THEN IncludeArticle OMS_Fields2_Cvs%%
+%%IF PartnerTypeID = "44" THEN IncludeArticle OMS_Fields2_Ritz%%
+%%IF PartnerTypeID = "52" THEN IncludeArticle OMS_Fields2_SamsClub%%
+%%IF PartnerTypeID = "43" THEN IncludeArticle OMS_Fields2_Walgreens%%
+%%IF PartnerTypeID = "76" THEN IncludeArticle OMS_Fields2_Walmart%%
+%%IF PartnerTypeID = "64" THEN IncludeArticle OMS_Fields2_Target%%
+%%IF PartnerTypeID = "65" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "66" THEN IncludeArticle OMS_Fields2_Kodak%%
+%%IF PartnerTypeID = "78" THEN IncludeArticle OMS_Fields2_Archivers%%
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- Facebook sharing information tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta property="og:title" content="%%$name%% shared a home movie with you!" />
+<title>%%$conv_initiator%% shared a home movie with you!</title>
+<style type="text/css">
+	body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+	body { width: 100% !important; }
+	body { background-color: #FFFFFF !important; margin: 0 !important; padding: 0 !important; }
+	body { font-family: Arial, Helvetica, Geneva, sans-serif !important; }
+	img { height: auto; line-height: 100%; border: 0; outline: none !important; text-decoration: none !important; display: block !important; }
+	#backgroundTable { height: 100% !important; margin: 0; padding: 0; width: 100% !important; }
+	body, #backgroundTable { }
+	#templateContainer { }
+	h2, .h2 { color: #3a3a3a; display: block; font-family: Arial; font-size: 16px; font-weight: bold; line-height: 100%; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: left; }
+	h3, .h3 { color: #3a3a3a; display: block; font-family: Arial; font-size: 14px; font-weight: bold; line-height: 100%; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; text-align: left; }
+	a { color: #11abb7; text-decoration: none; }
+	.bodyContent img { display: inline; height: auto; }
+	#middle { background-color: #f4f4f2; }
+	#message { background-color: #f0f0ee; font-size: 12px; }
+	a img {border:none;}
+	.image_fix {display:block;}
+	p {margin: 1em 0;}
+	table td {border-collapse: collapse;}
+	table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+	.ExternalClass { width: 100% !important; display: block !important; }
+	.yshortcuts a:visited { color: #444444 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.yshortcuts a:hover { color: #444444 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+	.appleLinks a { color: #444444; text-decoration: none; }
+	#outlook a {padding:0;}
+	.ExternalClass {width:100%;}
+	.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, {line-height: 100%;} 
+	@media only screen and (max-device-width: 480px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color: #444444;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #444444 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		a[href^="tel"], a[href^="sms"] {
+					text-decoration: none;
+					color:#444444;
+					pointer-events: none;
+					cursor: default;
+				}
+		.mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+					text-decoration: default;
+					color: #444444 !important;
+					pointer-events: auto;
+					cursor: default;
+				}
+	}
+	@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+	}
+	@media only screen and (-webkit-device-pixel-ratio:.75){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1){
+	}
+	@media only screen and (-webkit-device-pixel-ratio:1.5){
+	}
+a.disable-link {
+    pointer-events: none;
+    cursor: default;
+}
+@media only screen and (max-device-width: 480px) {
+   a[class="disable-link"] {
+      pointer-events: auto !important;
+      cursor: auto !important;
+   }
+}
+</style>
+<!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+</head>
+		<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+        <center>
+          <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable" style="height: 100% !important; margin: 0; width: 100% !important;">
+            <tr>
+              <td align="center" valign="top" style="padding:10px;">
+              	<table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="">
+                  <tr>
+                  	<td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                  <tr>
+                      <td width="600" valign="top" class="bodyContent">
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          	<tr>
+                              <td valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#3a3a3a; padding-top:10px; padding-bottom:10px;">You haven't watched the video %%$conv_initiator%% shared with you! Sign up is free and provides private access to the video shared with you. </td>
+                            </tr>
+                          </table>
+                          <table border="0" cellpadding="0" cellspacing="0" width="600" id="middle" style="background-color:#f4f4f2;">
+                          	<tr>
+                              <td width="320" align="center" style="padding:10px">
+                              	<table width="320" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  	<tr>
+                                  		<td style="background-image: url('%%$thumb_url%%');" background="%%$thumb_url%%" valign="top"><!--[if gte mso 9]>
+                                                                   <v:rect style="width:320px;" strokecolor="none">
+                                                                      <v:fill type="tile" color="#DDDDDD" src="%%$thumb_url%%" /></v:fill>
+                                                                   </v:rect>
+                                                                   <v:shape id="theText" style="position:absolute;width:320px;">
+                                                                   <![endif]-->
+                                      	<table width="320" height="200" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      		<tr>
+                                          		<td style="padding-left:110px; padding-right:111px;"><a href="http://share.yesvideo.com/%%STOP%%%%$ctr_path%%"><img src='http://media.whatcounts.com/yesvideo/img/play.png' width="99" height="99"/></a></td>
+                                       	  </tr>
+                                    	</table>
+                                      	<!--[if gte mso 9]></v:shape><![endif]--></td>
+                                	</tr>
+                                  	<tr>
+                                  		<td style="padding-top:10px; padding-left:10px;"><a href="%%STOP%%%%$ctr_url%%" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#11abb7; text-decoration:none">> Click to watch the video</a></td>
+                                	</tr>
+                              </table></td>
+                              <td valign="top" style="padding:10px;"><h3 style="color: #3a3a3a; display: block; font-family: Arial; font-size: 14px; font-weight: bold; line-height: 100%; margin-top: 0; margin-right: 0; margin-bottom: 5px; margin-left: 0; text-align: left;" class="h3"></h3>
+
+%%IF inv_msg != "" THEN INCLUDEARTICLE "INV_MSG"%%
+
+                               </td>
+                            </tr>
+                        </table>
+                          <br/>
+                          <!-- footer -->
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tr>
+                              <td valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#3a3a3a; padding:10px; text-align:left"><a href="http://www.yesvideo.com"><img src="http://media.whatcounts.com/yesvideo/img/yvlogo_teal.png"/></a>
+                              <br/>YesVideo transfers vintage home movies into beautiful memories to view and share online.<br />
+                              <br/>Got your own videotapes or film reels you'd like to transfer? <a href="%%$BANNER_HREF%%" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#11abb7; text-decoration:none">Learn More.</a></td>
+                            </tr>
+                        </table></td>
+                    </tr>
+                    </table></td>
+                </tr>
+                </table></td>
+            </tr>
+          </table>
+        </center>
+
+</body>
+</html>
