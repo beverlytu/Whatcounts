@@ -1,0 +1,359 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600" rel="stylesheet" type="text/css">
+<style type="text/css">
+body { -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; }
+body { width: 100% !important; }
+body { background-color: #dedede !important; margin: 0 !important; padding: 0 !important; }
+body { font-family: 'Open Sans', sans-serif !important; }
+table td { }
+table { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+a { color: #009999; }
+a:link,
+a:visited { color: #009999; text-decoration: none; }
+.ReadMsgBody { width: 100% !important; }
+.ExternalClass { width: 100% !important; display: block !important; }
+.yshortcuts a:visited { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.yshortcuts a:hover { color: #555555 !important; text-decoration: none !important; border-bottom: none !important; background: none !important; }
+.appleLinks a { color: #555555; text-decoration: none; }
+.appleLinksWhite a { color: #ffffff; text-decoration: underline; }
+.appleLinksWhite a:link,
+.appleLinksWhite a:visited { color: #ffffff; text-decoration: underline; }
+#outlook a { padding: 0; }
+.ExternalClass { width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div { line-height: 100%; }
+#backgroundTable { margin: 0; padding: 0; width: 100% !important; line-height: 100% !important; }
+@media only screen and (max-device-width: 480px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+a[href^="tel"],
+a[href^="sms"] { text-decoration: none; color: #555555; pointer-events: none; cursor: default; }
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] { text-decoration: default; color: #555555 !important; pointer-events: auto; cursor: default; }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+}
+@media only screen and (-webkit-device-pixel-ratio:.75) {
+}
+@media only screen and (-webkit-device-pixel-ratio:1) {
+}
+@media only screen and (-webkit-device-pixel-ratio:1.5) {
+}
+</style>
+<!--[if IEMobile 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+<!--[if gte mso 9]>
+<style>
+	/* Target Outlook 2007 and 2010 */
+</style>
+<![endif]-->
+
+
+
+
+
+
+
+
+<table style="background-color: #dedede;" bgcolor="#dedede" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td><table align="center" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><a href="http://www.yesvideo.com"><img src="http://media.whatcounts.com/yesvideo/img/YesVideo-header.jpg" alt="YesVideo" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;" height="63" width="680"></a></td>
+</tr>
+</tbody></table>
+<table style="background-color:#FFFFFF" align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="680">
+<tbody><tr>
+<td style="padding-top:30px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+<tbody><tr>
+<td style="color:#555555; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:15px;">Dear $FirstName,</td>
+</tr>
+
+
+
+
+## FOR TESTING
+## set ($AllOrdersSNA = "TRUE")
+
+
+
+
+#if ($AllOrdersSNA == "TRUE" )
+
+
+
+
+%%IF AllOrdersSNA = "TRUE" THEN PRINT "We have received your videos but they could not be transferred"%%
+%%IF AllOrdersSNA = "FALSE" THEN PRINT "We have received your videos for your transfer order"%%
+
+
+
+
+
+
+
+
+<tr>
+<td style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">We're sorry but your videos are not transferrable.</td>
+</tr>
+<tr>
+<td style="color:#555555; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:20px;">Please see details below on why your materials are not eligible for transfer. We will promptly return your materials and refund your credit card for any charges related to this order.</td>
+</tr>
+
+
+
+
+#else
+<tr>
+<td style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">We've received your videos!</td>
+</tr>
+<tr>
+<td style="color:#555555; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:20px;">We'll ship back your originals via UPS and email you once your video transfer is complete.</td>
+</tr>
+#end
+</tbody></table></td>
+</tr>
+<tr>
+	<td><table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+<tbody><tr>
+<td style="font-family:'Open Sans', Arial, sans-serif; padding-left:27px; color:#276665; font-size:20px; background-color:#CFE4E6">Estimated order details: $WebOrderID</td>
+<td style="background-color:#CFE4E6" width="172">
+
+
+
+
+## only show a tracking link if there are live orders
+#if ($AllOrdersSNA == "FALSE" )
+<a href='http://www.yesvideo.com/OrderStatus/tracking_results.aspx?envelope=$WebOrderID&lastname=$LastName'><img src="http://media.whatcounts.com/yesvideo/TrackOrderStatus_Button.png" alt="Track Order Status" height="57" width="172" style="display: block; outline: none; text-decoration: none; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none;"></a>
+#end
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+	<td><table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+<tbody><tr>
+<td style="font-family:'Open Sans', Arial, sans-serif; padding-left:15px; padding-top:15px; padding-bottom:15px; color:#000000; font-size:20px; background-color:#F8F8F8" width="413">Title</td>
+<td style="font-family:'Open Sans', Arial, sans-serif; background-color:#F8F8F8; color:#000000; font-size:20px; padding-top:15px; padding-bottom:15px;" align="center">Qty</td>
+<td style="font-family:'Open Sans', Arial, sans-serif; background-color:#F8F8F8; color:#000000; font-size:20px; padding-top:15px; padding-bottom:15px; padding-left:20px;" width="125">Cost</td>
+</tr>
+
+
+
+
+#foreach( $row in $OrderDetailItems )
+
+
+
+
+#set ( $label = $row.Name )
+#set ( $title = "" )
+#set ( $type = $row.Type )
+#set ( $quantity = $row.Quantity )
+#set ( $price = $row.DisplayPrice )
+#set ( $note = $row.Note )
+#*
+no longer needed, we are passing objects now
+
+
+
+
+#foreach ( $col in $row )
+#if ( $col.key == "Label" )
+#set ( $label = $col.value )
+#end
+#if ( $col.key == "Type" )
+#set ( $type= $col.value )
+#end 
+#if ( $col.key == "Quantity" )
+#set ( $quantity = $col.value )
+#end
+#if ( $col.key == "Price" )
+#set ( $price = $col.value )
+#end
+#if ( $col.key == "Note" )
+#set ( $note = $col.value )
+#end 
+#end
+*# 
+
+
+
+
+## media line-item case
+#if ( $label == "TAPE" || $label == "FILM" || $label == "SLIDE" || $label == "PRINT" )
+
+
+
+
+## change field names to display names
+
+
+
+
+#if ($label == "TAPE" )
+#set ($title = "Videotapes" )
+#end
+#if ($label == "SLIDE" )
+#set ($title = "Slides" )
+#end
+#if ($label == "PRINT" )
+#set ($title = "Prints" )
+#end
+#if ($label == "FILM" )
+#set ($title = "Film Reels: ${type}-inch" )
+#end
+<tr>
+<td valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#000000; font-size:16px; padding-top:15px; padding-bottom:15px; padding-left:15px; border-bottom-width:1px; border-bottom-style:solid; border-bottom-color:#EFEFEF;">$title <br><span style="font-size:12px; color:#EB952C">$note</span></td>
+<td align="center" valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#555555; font-size: 16px; padding-top: 15px; padding-bottom: 15px; border-bottom-width:1px; border-bottom-style:solid; border-bottom-color:#EFEFEF;">$quantity</td>
+<td valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#555555; font-size: 16px; padding-top: 15px; padding-bottom: 15px; border-bottom-width:1px; border-bottom-style:solid; border-bottom-color:#EFEFEF; padding-left:20px;">$price</td>
+</tr>
+
+
+
+
+##subtotal-item case
+#elseif ($label == "SHIPPING_INBOUND" || $label == "SHIPPING_OUTBOUND" || $label == "DISCOUNT" || $label == "TAX" || $label == "SUBTOTAL" || $label == "TOTAL" || $label == "DEPOSIT")
+
+
+
+
+## change field names to display names
+
+
+
+
+#if ($label == "SHIPPING_INBOUND" )
+#set ($title = "Shipping:" )
+#end
+#if ($label == "SHIPPING_OUTBOUND" )
+#set ($title = "Return Shipping:" )
+#end
+#if ($label == "DISCOUNT" )
+#set ($title = "Coupon Code:" )
+#end
+#if ($label == "TAX" )
+#set ($title = "Estimated Tax:" )
+#end
+#if ($label == "SUBTOTAL" )
+#set ($title = "Subtotal:" )
+#end
+#if ($label == "TOTAL" )
+#set ($title = "Total:" )
+#end
+#if ($label == "DEPOSIT" )
+#set ($title = "Total Charged Now:" )
+#end
+
+
+
+
+#if ($label == "TOTAL")
+
+
+
+
+<tr>
+<td colspan="2" style="color: #000000; font-size: 24px; padding-top:15px;" align="right">$title</td>
+<td style="color: #EB952C; font-size: 24px; padding-top: 15px; padding-left:20px;">$price</td>
+</tr>
+
+
+
+
+#elseif ($label == "DEPOSIT" )
+
+
+
+
+<tr>
+<td colspan="2" align="right" valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#000000; font-size:16px; font-weight:600; padding-top:15px;">$title</td>
+<td valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#EB952C; font-size: 16px; font-weight:600; padding-top: 15px; padding-left:20px;">$price</td>
+</tr>
+#else
+<tr>
+<td colspan="2" align="right" valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#000000; font-size:16px; padding-top:15px;">$title </td>
+<td valign="top" style="font-family:'Open Sans', Arial, sans-serif; color:#555555; font-size: 16px; padding-top: 15px; padding-left:20px;">$price</td>
+</tr> 
+#end
+
+#end
+#end
+
+
+
+
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td style="padding-top:15px;"><table width="610" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f3f3" style="border-radius: 5px 5px 5px 5px; -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;">
+<tbody>
+<tr style="border-collapse: collapse;">
+<td width="20" height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;"></td>
+<td height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;"></td>
+<td width="20" height="17" style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;"></td>
+</tr>
+<tr style="border-collapse: collapse;">
+<td width="20" style="border-collapse: collapse;"></td>
+<td valign="top" style="border-collapse: collapse;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="2" style="color: #009999; font-size: 24px; font-family: 'Open Sans', Arial, sans-serif; font-weight:300; line-height: 1.3em; -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; padding-bottom: 15px;">Popular Questions</td>
+</tr>
+#if ($AllOrdersSNA == "TRUE")
+
+
+
+
+<tr>
+<td width="45%" style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;">What are common reasons why videos cannot be transferred?</td>
+<td width="55%" style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;">How do I talk with a Customer Care representative about my order?</td>
+</tr>
+<tr>
+<td width="45%" valign="top" style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-right:20px;">YesVideo cannot tranfser copyrighted materials such as taped TV shows, newscasts or movies. Also, videotapes and film reels with signifcant damage may not be transferred.</td>
+<td width="55%" valign="top" style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px;">If you have any questions as to why your order could not be transferred, don't hesitate to call our Customer Care team at (866) 493-7383. Be sure to have your order number handy. </td>
+</tr>
+#else
+<tr>
+<td style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;" width="45%">How do I watch my videos online?</td>
+<td style="color:#555555; font-weight:600; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-bottom:10px;" width="55%">What is my final transfer price?</td>
+</tr>
+<tr>
+<td style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px; padding-right:20px;" valign="top" width="45%">Once your transfer has been completed, you will receive an email to watch, share and order DVDs of your transferred videos directly online.</td>
+<td style="color:#555555; font-weight:300; font-family:'Open Sans', Arial, sans-serif; -webkit-text-size-adjust:90% !important; -ms-text-size-adjust:90% !important; font-size:14px;" valign="top" width="55%">The final cost may differ from initial estimates once we've manually verified your materials and determined what is transferrable. You'll see your billed cost on your return shipping email statement.</td>
+</tr>
+#end
+</tbody></table></td>
+<td style="border-collapse: collapse;" width="20"></td>
+</tr>
+<tr style="border-collapse: collapse;">
+<td style="border-collapse: collapse;" width="20"></td>
+<td style="border-collapse: collapse; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;" height="15"></td>
+<td style="border-collapse: collapse;" width="20"></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="610">
+<tbody><tr>
+<td style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#cccccc; padding-top:20px; padding-bottom:10px; padding-left:10px;" class="appleLinks">Questions? Go to our <a href="http://help.direct.yesvideo.com" style="color: #009999; text-decoration: none; text-decoration:underline">Help Center</a> or contact our Customer Care team at (866) 493-7383.</td>
+</tr>
+<tr>
+<td class="appleLinks" style="color: #555555; font-family: 'Open Sans', Arial, sans-serif; font-size: 12px; padding-top: 10px; padding-left: 10px; padding-bottom:35px; font-weight:300;">View our <a href="http://www.yesvideo.com/privacy-policy.aspx" style="color: #009999; text-decoration: none; font-family: 'Open Sans', Arial, sans-serif; line-height:3em;">privacy policy</a> and <a href="http://www.yesvideo.com/terms-of-service.aspx" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">terms of service</span></a>. <a href="%%UNSUB_HREF%%" style="color: #009999; text-decoration: none;"><span style="color: #009999; text-decoration: none;">Unsubscribe</span></a><br style="line-height: 100%;">
+  3281 Scott Blvd., Santa Clara, CA 95054</td></tr></tbody></table></td></tr></tbody></table>
+
+
+
+
+<!-- END -->
